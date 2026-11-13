@@ -1,0 +1,38 @@
+site_name: "Less friction, more flow"
+site_description: "A student day with GitHub and GitHub Copilot"
+theme:
+  name: mkdocs
+  color_mode: auto
+  user_color_mode_toggle: true
+nav:
+  - Welcome: index.md
+  - Get ready: setup.md
+  - Alex's day:
+      - The story: workshop/index.md
+      - "08:15 | Recover context": workshop/01-morning.md
+      - "09:30 | Learn when stuck": workshop/02-learn.md
+      - "11:00 | Make a shared plan": workshop/03-plan.md
+      - "13:00 | Build in a short window": workshop/04-build.md
+      - "14:30 | Debug and verify": workshop/05-debug.md
+      - "16:45 | Hand work over": workshop/06-collaborate.md
+      - "19:30 | Publish and switch off": workshop/07-publish.md
+  - Project pack:
+      - Assignment brief: project/brief.md
+      - Meeting notes: project/meeting-notes.md
+      - Supplied readings: project/readings.md
+      - Budget exercise: project/budget.md
+      - Task cards: project/tasks.md
+  - Student survival hub:
+      - Start here: hub/index.md
+      - Study planner: hub/planner.md
+      - Campus resources: hub/resources.md
+  - Facilitator: facilitator.md
+extra_css:
+  - assets/styles.css
+extra_javascript:
+  - path: assets/planner.js
+    type: module
+markdown_extensions:
+  - admonition
+  - fenced_code
+  - tables
