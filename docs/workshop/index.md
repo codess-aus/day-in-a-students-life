@@ -7,6 +7,8 @@ The group is building a [student survival hub](../project/brief.md). Alex owns t
 study planner. A teammate is writing campus guidance. Another is checking the
 launch budget. Everything must fit together before the group can publish.
 
+![Alex and a Copilot companion present the student survival hub, showing how coding and non-coding contributions come together in a MkDocs site with a JavaScript study planner, published through GitHub Pages.](../assets/Neon%20Student%20Survival%20Workshop.png)
+
 You play Alex for the coding path. On the alternative path, play a teammate
 contributing to the same outcome. No real student identity or personal data is needed.
 

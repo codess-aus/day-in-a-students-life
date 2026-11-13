@@ -2,6 +2,8 @@
 
 ## A student day with GitHub and GitHub Copilot
 
+![Alex on the bus with a laptop and Copilot companion, surrounded by reminders to plan, code, test, review, and publish.](assets/Less%20Friction%2C%20More%20Flow.png)
+
 It is 8:15 am. Alex is on the bus, the group chat has 37 unread messages, a
 JavaScript exercise is unfinished, and a shift starts at five. The group assignment
 is due soon. Where do you start?
@@ -26,6 +28,8 @@ research synthesis, content, budget analysis, or usability review. You can stay 
 one path or switch. Both paths require evidence and human judgement.
 
 ## The day at a glance
+
+![An illustrated timeline of Alex's seven workshop moments, from recovering context on the morning bus to publishing and switching off in the evening. Full details follow in the table.](assets/A%20Neon%20Day%20at%20a%20Glance.png)
 
 | Alex's day | The friction | The useful change |
 | --- | --- | --- |
